@@ -1,6 +1,6 @@
 # {{name}}
 
-> {{description}} > {{createDate}}
+> {{description}} —— {{createDate}}
 
 ## 项目依赖安装
 
