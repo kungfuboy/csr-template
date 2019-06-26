@@ -1,6 +1,8 @@
 {
   "name": "{{name}}",
   "version": "0.1.0",
+  "repository": "{{repository}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
